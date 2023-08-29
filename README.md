@@ -1,6 +1,5 @@
 # Challenge | Hotel-Alura | Back-end
 
-# Challenge ONE | Java | Back-end | Hotel Alura
 
 <p align="center" >
      <img width="300" heigth="300" src="https://user-images.githubusercontent.com/91544872/189419040-c093db78-c970-4960-8aca-ffcc11f7ffaf.png">
@@ -184,9 +183,6 @@ Es la misma ruta descrita para importar el <strong>JCalendar</strong>, haga clic
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173169737-5f93868e-df8f-4177-90ba-faf9570758ac.png">
 </p>
 
-###*************************************************************************
-###*************************************************************************
-###*************************************************************************
 
 ### Modelado de tablas:
 
