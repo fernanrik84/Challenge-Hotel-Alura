@@ -184,14 +184,24 @@ Es la misma ruta descrita para importar el <strong>JCalendar</strong>, haga clic
 </p>
 
 
-### Modelado de tablas:
+### Crear tablas de la base de datos:
 
-Para este reto te proponemos dos tablas: <strong>Reservas</strong> y <strong>Huéspedes</strong>. La tabla de huéspedes debe contener la clave externa <em>(foreign key)</em> <strong>idReserva</strong>.
+- 1er paso: Ejecutar el script sql.
+  - Al ejecutar el script se creara la base de datos y las tablas necesarias para poder continuar.
+
+- 2do paso: Crear el usuario admin.
+  - Se debe ejecutar el archivo que se en cuentra en el paquete:
+  - scr/test/java -> com.alura.hotel.hotelAlura -> TestCrearUser.java
+
+- 3er paso: Acceder al proyecto con el usuario creado.
+
+---
 
 <p align="center" >
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/169529338-09a4d4c2-1b5a-41dc-b305-38498ebc29a8.png">
+     <img width="500" heigth="500" src="">
 </p>
 
+---
 
 ## 🗔 Plugin WindowBuilder
 
@@ -234,3 +244,6 @@ La pestaña de <em>Design</em> se abrirá por encima de la zona del <em>Console<
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173682648-4c371224-fe4b-4e57-a3ee-9298a4d44554.png">
 </p>
+
+---
+
